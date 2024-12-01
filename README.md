@@ -1,6 +1,6 @@
 # transformers_and_finetuning_with_LLM
 
-##File and Its Content:
+## File and Its Content:
 
 1. Creating_your_own_GPT.ipynb: this file contains the code for generating a nano GPT, using "As you like it" novel by Shakespear as its orignallarge corpus of data.
 
