@@ -13,3 +13,4 @@ https://medium.com/@neel26d/creating-your-own-gpt-from-sratch-dce1abd3e3dc
 
 ## Videos
 #### Video for Creatng your own nano GPT
+https://youtu.be/xTxvWGqqFc4
